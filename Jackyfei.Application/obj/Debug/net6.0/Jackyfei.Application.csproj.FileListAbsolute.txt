@@ -1,0 +1,15 @@
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application\bin\Debug\net6.0\Jackyfei.Application.deps.json
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application\bin\Debug\net6.0\Jackyfei.Application.dll
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application\bin\Debug\net6.0\ref\Jackyfei.Application.dll
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application\bin\Debug\net6.0\Jackyfei.Application.pdb
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application\bin\Debug\net6.0\Jackyfei.Application.Contracts.dll
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application\bin\Debug\net6.0\Jackyfei.Application.Contracts.pdb
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application\obj\Debug\net6.0\Jackyfei.Application.csproj.AssemblyReference.cache
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application\obj\Debug\net6.0\Jackyfei.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application\obj\Debug\net6.0\Jackyfei.Application.AssemblyInfoInputs.cache
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application\obj\Debug\net6.0\Jackyfei.Application.AssemblyInfo.cs
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application\obj\Debug\net6.0\Jackyfei.Application.csproj.CoreCompileInputs.cache
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application\obj\Debug\net6.0\Jackyfei.Application.csproj.CopyComplete
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application\obj\Debug\net6.0\Jackyfei.Application.dll
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application\obj\Debug\net6.0\ref\Jackyfei.Application.dll
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application\obj\Debug\net6.0\Jackyfei.Application.pdb

@@ -1,0 +1,12 @@
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application.Contracts\bin\Debug\net6.0\Jackyfei.Application.Contracts.deps.json
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application.Contracts\bin\Debug\net6.0\Jackyfei.Application.Contracts.dll
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application.Contracts\bin\Debug\net6.0\ref\Jackyfei.Application.Contracts.dll
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application.Contracts\bin\Debug\net6.0\Jackyfei.Application.Contracts.pdb
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application.Contracts\obj\Debug\net6.0\Jackyfei.Application.Contracts.csproj.AssemblyReference.cache
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application.Contracts\obj\Debug\net6.0\Jackyfei.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application.Contracts\obj\Debug\net6.0\Jackyfei.Application.Contracts.AssemblyInfoInputs.cache
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application.Contracts\obj\Debug\net6.0\Jackyfei.Application.Contracts.AssemblyInfo.cs
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application.Contracts\obj\Debug\net6.0\Jackyfei.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application.Contracts\obj\Debug\net6.0\Jackyfei.Application.Contracts.dll
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application.Contracts\obj\Debug\net6.0\ref\Jackyfei.Application.Contracts.dll
+D:\open_source\github\video_src\Jackyfei.Study\Jackyfei.Application.Contracts\obj\Debug\net6.0\Jackyfei.Application.Contracts.pdb

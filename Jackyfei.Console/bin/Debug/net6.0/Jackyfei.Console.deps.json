@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Jackyfei.Console/1.0.0": {
+        "dependencies": {
+          "Jackyfei.Application": "1.0.0",
+          "Jackyfei.Application.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Jackyfei.Console.dll": {}
+        }
+      },
+      "Jackyfei.Application/1.0.0": {
+        "dependencies": {
+          "Jackyfei.Application.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Jackyfei.Application.dll": {}
+        }
+      },
+      "Jackyfei.Application.Contracts/1.0.0": {
+        "runtime": {
+          "Jackyfei.Application.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jackyfei.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jackyfei.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jackyfei.Application.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
