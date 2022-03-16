@@ -5,11 +5,27 @@ VisualStudioVersion = 17.1.31903.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jackyfei.Console", "Jackyfei.Console\Jackyfei.Console.csproj", "{E579942C-7E89-49F7-B3D4-0CDC4CAF3918}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jackyfei.Shared", "Jackyfei.Shared\Jackyfei.Shared.csproj", "{44078AB4-F706-4157-BAC8-25252A6F7CA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jackyfei.Shared", "Jackyfei.Shared\Jackyfei.Shared.csproj", "{44078AB4-F706-4157-BAC8-25252A6F7CA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jackyfei.Application", "Jackyfei.Application\Jackyfei.Application.csproj", "{2EF14989-8198-4232-8580-A48BB41F2D20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jackyfei.Application", "Jackyfei.Application\Jackyfei.Application.csproj", "{2EF14989-8198-4232-8580-A48BB41F2D20}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jackyfei.Application.Contracts", "Jackyfei.Application.Contracts\Jackyfei.Application.Contracts.csproj", "{89B115E1-0541-43AE-BAB3-46CE33494E93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jackyfei.MiniAPI", "Jackyfei.MiniAPI\Jackyfei.MiniAPI.csproj", "{049B3F5E-37CB-4AE2-B037-94CA730DD49D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "srcGenerator", "srcGenerator", "{FA881DC5-699D-49D9-B718-EE8D6B61E158}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "src_generator\ConsoleApp\ConsoleApp.csproj", "{7EC4BBDF-2897-4FDB-B68F-BC532B78AA4A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "signalR", "signalR", "{8889DB5B-F93F-4C60-A87A-B32FE010EC9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jackyfei.SignalRClient", "signalR\SignalRClient\Jackyfei.SignalRClient.csproj", "{0913636B-76E7-4DC2-9596-CC7580BC0D79}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jackyfei.SignalRServer", "signalR\SignalRServer\Jackyfei.SignalRServer.csproj", "{403E1586-1526-41A8-98C6-9D7EBC2DA470}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "minimalAPI", "minimalAPI", "{EA73A720-E95F-41E7-B28C-4F22ED4788FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SrcGenerator", "SrcGenerator\SrcGenerator.csproj", "{9A9D3428-0B65-4C08-9894-BC25D43427AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,9 +49,36 @@ Global
 		{89B115E1-0541-43AE-BAB3-46CE33494E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89B115E1-0541-43AE-BAB3-46CE33494E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89B115E1-0541-43AE-BAB3-46CE33494E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{049B3F5E-37CB-4AE2-B037-94CA730DD49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049B3F5E-37CB-4AE2-B037-94CA730DD49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049B3F5E-37CB-4AE2-B037-94CA730DD49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049B3F5E-37CB-4AE2-B037-94CA730DD49D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC4BBDF-2897-4FDB-B68F-BC532B78AA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC4BBDF-2897-4FDB-B68F-BC532B78AA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC4BBDF-2897-4FDB-B68F-BC532B78AA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC4BBDF-2897-4FDB-B68F-BC532B78AA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0913636B-76E7-4DC2-9596-CC7580BC0D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0913636B-76E7-4DC2-9596-CC7580BC0D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0913636B-76E7-4DC2-9596-CC7580BC0D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0913636B-76E7-4DC2-9596-CC7580BC0D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{403E1586-1526-41A8-98C6-9D7EBC2DA470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403E1586-1526-41A8-98C6-9D7EBC2DA470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403E1586-1526-41A8-98C6-9D7EBC2DA470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403E1586-1526-41A8-98C6-9D7EBC2DA470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A9D3428-0B65-4C08-9894-BC25D43427AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9D3428-0B65-4C08-9894-BC25D43427AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9D3428-0B65-4C08-9894-BC25D43427AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9D3428-0B65-4C08-9894-BC25D43427AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{049B3F5E-37CB-4AE2-B037-94CA730DD49D} = {EA73A720-E95F-41E7-B28C-4F22ED4788FC}
+		{7EC4BBDF-2897-4FDB-B68F-BC532B78AA4A} = {FA881DC5-699D-49D9-B718-EE8D6B61E158}
+		{0913636B-76E7-4DC2-9596-CC7580BC0D79} = {8889DB5B-F93F-4C60-A87A-B32FE010EC9C}
+		{403E1586-1526-41A8-98C6-9D7EBC2DA470} = {8889DB5B-F93F-4C60-A87A-B32FE010EC9C}
+		{9A9D3428-0B65-4C08-9894-BC25D43427AC} = {FA881DC5-699D-49D9-B718-EE8D6B61E158}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33FF3C16-F739-413B-A1D6-F0FDDAACD2C7}

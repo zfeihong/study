@@ -1,0 +1,5 @@
+D:\open_source\github\study\src_generator\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\open_source\github\study\src_generator\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\open_source\github\study\src_generator\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\open_source\github\study\src_generator\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+D:\open_source\github\study\src_generator\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache

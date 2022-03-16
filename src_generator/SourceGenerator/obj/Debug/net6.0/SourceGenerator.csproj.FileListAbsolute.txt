@@ -1,0 +1,12 @@
+D:\open_source\github\study\src_generator\SourceGenerator\bin\Debug\net6.0\SourceGenerator.deps.json
+D:\open_source\github\study\src_generator\SourceGenerator\bin\Debug\net6.0\SourceGenerator.dll
+D:\open_source\github\study\src_generator\SourceGenerator\bin\Debug\net6.0\ref\SourceGenerator.dll
+D:\open_source\github\study\src_generator\SourceGenerator\bin\Debug\net6.0\SourceGenerator.pdb
+D:\open_source\github\study\src_generator\SourceGenerator\obj\Debug\net6.0\SourceGenerator.csproj.AssemblyReference.cache
+D:\open_source\github\study\src_generator\SourceGenerator\obj\Debug\net6.0\SourceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\open_source\github\study\src_generator\SourceGenerator\obj\Debug\net6.0\SourceGenerator.AssemblyInfoInputs.cache
+D:\open_source\github\study\src_generator\SourceGenerator\obj\Debug\net6.0\SourceGenerator.AssemblyInfo.cs
+D:\open_source\github\study\src_generator\SourceGenerator\obj\Debug\net6.0\SourceGenerator.csproj.CoreCompileInputs.cache
+D:\open_source\github\study\src_generator\SourceGenerator\obj\Debug\net6.0\SourceGenerator.dll
+D:\open_source\github\study\src_generator\SourceGenerator\obj\Debug\net6.0\ref\SourceGenerator.dll
+D:\open_source\github\study\src_generator\SourceGenerator\obj\Debug\net6.0\SourceGenerator.pdb

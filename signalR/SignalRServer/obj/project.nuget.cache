@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "4iuR5cKi6a2Ry9c3dciavjJMjOhy/ZEMUlr376IBDNLsgS08s8QwgdBeBYusH7bDv4pPQuRJKxe1OhgRZQ5//A==",
+  "success": true,
+  "projectFilePath": "D:\\open_source\\github\\study\\signalR\\SignalRServer\\Jackyfei.SignalRServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\41696\\.nuget\\packages\\microsoft.aspnet.signalr\\2.4.2\\microsoft.aspnet.signalr.2.4.2.nupkg.sha512",
+    "C:\\Users\\41696\\.nuget\\packages\\microsoft.aspnet.signalr.core\\2.4.2\\microsoft.aspnet.signalr.core.2.4.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“net6.0”还原包“Microsoft.AspNet.SignalR.Core 2.4.2”。此包可能与项目不完全兼容。",
+      "libraryId": "Microsoft.AspNet.SignalR.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
